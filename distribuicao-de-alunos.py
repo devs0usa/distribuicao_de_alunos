@@ -8,4 +8,5 @@ print('Terá', numero_de_alunos_por_sala, 'alunos em cada sala')
 
 if numero_de_alunos_por_sala < 0:
     print('A escola precisa de mais salas para acomodar os alunos')
-else:    print('A escola tem salas suficientes para acomodar os alunos')
+else:   
+     print('A escola tem salas suficientes para acomodar os alunos')
